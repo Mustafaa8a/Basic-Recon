@@ -4,7 +4,7 @@
 Mostafa Mohamed
 
 ## Internship Name
-ITOLERA
+ITSOLERA Red Team
 
 ## Project Purpose
 Basic reconnaissance techniques.
