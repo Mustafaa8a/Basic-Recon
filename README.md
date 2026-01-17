@@ -1,4 +1,4 @@
-# DNS Enumeration Project
+# Basic reconnaissance Tool
 
 ## Name
 Mostafa Mohamed
