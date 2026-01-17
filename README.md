@@ -1,7 +1,7 @@
 # DNS Enumeration Project
 
 ## Name
-Muptafa Mohamed
+Mostafa Mohamed
 
 ## Internship Name
 ITOLERA
