@@ -1,7 +1,7 @@
 import dns.resolver
 def dnsEnum(target):
 
-    record_types = ["A","MX", "NS"]
+    record_types = ["A","AAAA","MX", "NS","TXT"]
     try:
         resolver = dns.resolver.Resolver()
         for recordType in record_types:
