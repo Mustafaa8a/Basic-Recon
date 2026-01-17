@@ -1,4 +1,10 @@
-# Basic-Recon
-Mostafa Mohamed
-ITSOLERA intern
-Repo for Basic recon techniques
+# DNS Enumeration Project
+
+## Name
+Muptafa Mohamed
+
+## Internship Name
+ITOLERA
+
+## Project Purpose
+Basic reconnaissance techniques.
